@@ -1,0 +1,14 @@
+C:\Users\7RED\Desktop\DiningPhilosophersProblem\DiningPhilosophersProblem\bin\Debug\DiningPhilosophersProblem.exe.config
+C:\Users\7RED\Desktop\DiningPhilosophersProblem\DiningPhilosophersProblem\bin\Debug\DiningPhilosophersProblem.exe
+C:\Users\7RED\Desktop\DiningPhilosophersProblem\DiningPhilosophersProblem\bin\Debug\DiningPhilosophersProblem.pdb
+C:\Users\7RED\Desktop\DiningPhilosophersProblem\DiningPhilosophersProblem\obj\Debug\DiningPhilosophersProblem.csprojAssemblyReference.cache
+C:\Users\7RED\Desktop\DiningPhilosophersProblem\DiningPhilosophersProblem\obj\Debug\DiningPhilosophersProblem.csproj.CoreCompileInputs.cache
+C:\Users\7RED\Desktop\DiningPhilosophersProblem\DiningPhilosophersProblem\obj\Debug\DiningPhilosophersProblem.exe
+C:\Users\7RED\Desktop\DiningPhilosophersProblem\DiningPhilosophersProblem\obj\Debug\DiningPhilosophersProblem.pdb
+C:\Users\7RED\Desktop\作業系統 寫好\DiningPhilosophersProblem\DiningPhilosophersProblem\bin\Debug\DiningPhilosophersProblem.exe.config
+C:\Users\7RED\Desktop\作業系統 寫好\DiningPhilosophersProblem\DiningPhilosophersProblem\bin\Debug\DiningPhilosophersProblem.exe
+C:\Users\7RED\Desktop\作業系統 寫好\DiningPhilosophersProblem\DiningPhilosophersProblem\bin\Debug\DiningPhilosophersProblem.pdb
+C:\Users\7RED\Desktop\作業系統 寫好\DiningPhilosophersProblem\DiningPhilosophersProblem\obj\Debug\DiningPhilosophersProblem.csprojAssemblyReference.cache
+C:\Users\7RED\Desktop\作業系統 寫好\DiningPhilosophersProblem\DiningPhilosophersProblem\obj\Debug\DiningPhilosophersProblem.csproj.CoreCompileInputs.cache
+C:\Users\7RED\Desktop\作業系統 寫好\DiningPhilosophersProblem\DiningPhilosophersProblem\obj\Debug\DiningPhilosophersProblem.exe
+C:\Users\7RED\Desktop\作業系統 寫好\DiningPhilosophersProblem\DiningPhilosophersProblem\obj\Debug\DiningPhilosophersProblem.pdb
